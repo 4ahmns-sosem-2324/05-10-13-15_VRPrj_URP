@@ -1,4 +1,4 @@
-# Beschreinung 
+# Beschreibung 
 
 # Technische Komponennten
 
